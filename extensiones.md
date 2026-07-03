@@ -318,3 +318,8 @@ Con esas extensiones ya se puede trabajar correctamente con:
 * Documentación de proyectos
 * Visualización de resultados
 * Machine Learning básico
+
+
+**VERSIONES DE PYTHON**
+https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe
+https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe  
